@@ -11,10 +11,14 @@
             "id": "ba0316163221c7e8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Colonized",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,6 +157,15 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d77c5147689314c8",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
         "currentTab": 4
@@ -178,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7aefe203b25e17b7",
+  "active": "ba0316163221c7e8",
   "lastOpenFiles": [
+    "Star Systems/SOL/SOL System.md",
     "Factions/Major Factions/JEC/JEC.md",
     "Star Systems/SOL/JUPITER.md",
-    "Star Systems/SOL/SOL System.md",
     "Star Systems/SOL/URANUS.md",
     "Resources/Templates/Ship Class.md",
     "Factions/Major Factions/JEC/Untitled.md",
