@@ -1,0 +1,30 @@
+{
+  "callouts": {
+    "custom": [
+      "dimensions",
+      "armaments"
+    ],
+    "settings": {
+      "dimensions": [
+        {
+          "changes": {
+            "icon": "lucide-axis-3d"
+          }
+        }
+      ],
+      "armaments": [
+        {
+          "changes": {
+            "icon": "lucide-swords",
+            "color": "251, 70, 76"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

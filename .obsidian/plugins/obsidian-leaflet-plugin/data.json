@@ -1,0 +1,326 @@
+{
+  "mapMarkers": [
+    {
+      "id": "sol-map",
+      "locked": true,
+      "lastAccessed": 1755615784184,
+      "markers": [
+        {
+          "id": "ID_0a69b89bd9ab",
+          "type": "Inhabitable Planet",
+          "loc": [
+            -95.92129898071289,
+            280.28749464460736
+          ],
+          "link": "EARTH",
+          "layer": "%5B%5BSOL.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5474365129777488,
+            0.3330600659052531
+          ],
+          "description": "The Cradle of Humanity",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b95b38ea1a0a",
+          "type": "Gas Giant",
+          "loc": [
+            -71.91837310791016,
+            455.18557160220416
+          ],
+          "link": "NEPTUNE",
+          "layer": "%5B%5BSOL.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.889034319535555,
+            0.24971657329135472
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5879e938d88b",
+          "type": "Gas Giant",
+          "loc": [
+            -73.9705867767334,
+            122.12048857943003
+          ],
+          "link": "SATURN",
+          "layer": "%5B%5BSOL.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a97afa6b1ac8",
+          "type": "Gas Giant",
+          "loc": [
+            -203.22288703918457,
+            391.14311441476787
+          ],
+          "link": "JUPITER",
+          "layer": "%5B%5BSOL.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbd98af8ea4a",
+          "type": "Inhospitable Planet",
+          "loc": [
+            -206.03291511535645,
+            260.15223564158634
+          ],
+          "link": "MARS",
+          "layer": "%5B%5BSOL.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The first off planet self sustaining colonys",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_185889cafa7b",
+          "type": "Uninhabitable Planet",
+          "loc": [
+            -126.08823585510254,
+            302.2770329637889
+          ],
+          "link": "MERCURY",
+          "layer": "%5B%5BSOL.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bfb480959d8",
+          "type": "Uninhabitable Planet",
+          "loc": [
+            -161.21323585510254,
+            222.0167286340623
+          ],
+          "link": "VENUS",
+          "layer": "%5B%5BSOL.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab3aa9bae8c9",
+          "type": "Inhospitable Planet",
+          "loc": [
+            -85.83823585510254,
+            266.89707161984643
+          ],
+          "link": "LUNA",
+          "layer": "%5B%5BSOL.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The first off world colonys",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb3b0bb9897a",
+          "type": "Gas Giant",
+          "loc": [
+            -231.87103843688965,
+            117.58125661642312
+          ],
+          "link": "URANUS",
+          "layer": "%5B%5BSOL.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Star Systems/SOL/SOL System.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Inhabitable Planet",
+      "iconName": "map-pin",
+      "color": "#00ff00",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Planet",
+        "Inhabitable"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Gas Giant",
+      "iconName": "map-pin",
+      "color": "#856525",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Planet",
+        "GasGiant"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Inhospitable Planet",
+      "iconName": "map-pin",
+      "color": "#ffff00",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Planet",
+        "Inhospitable"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Uninhabitable Planet",
+      "iconName": "map-pin",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Planet",
+        "Uninhabitable"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "falsemarker",
+    "defaultZoom": "3",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px ",
+    "image": "[[SOL.png]] ",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[SOL.png]] "
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": "3",
+    "minZoom": "-2",
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": "1 ",
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "sol-map",
+    "lat": "50 ",
+    "long": "50 ",
+    "unit": "meters ",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
